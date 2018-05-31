@@ -1,10 +1,10 @@
 MLKitTextRecognize 
 ============
 
-##App will:
+### App will:
 Utilize the ML Kit Text Recognition API to detect text in images.
 
-##You'll learn:
+### You'll learn:
 How we can use Firebase ML Kit SDK in Android with Machine learning capability.
 
 * Get [FirebaseVisionText](https://firebase.google.com/docs/reference/android/com/google/firebase/ml/vision/text/FirebaseVisionText) object from Bitmap:
@@ -52,18 +52,18 @@ How we can use Firebase ML Kit SDK in Android with Machine learning capability.
         }
      }
 ``` 
-##Output:
+### Output:
 
-<img align="left" width="100" height="100" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshot/image_one_ml_kit_result.png">
-<img align="center" width="100" height="100" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshot/image_two_ml_kit_result.png">
-<img align="right" width="100" height="100" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshot/image_three_ml_kit_result.png">
+<img align="left" width="100" height="100" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshots/image_one_ml_kit_result.png">
+<img align="center" width="100" height="100" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshots/image_two_ml_kit_result.png">
+<img align="right" width="100" height="100" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshots/image_three_ml_kit_result.png">
 
-###NOTE:
+### NOTE:
 To successfully sync this project, need to set up this app into your Firebase project. 
 Kindly follow below link to "Add Firebase to Your Android Project":
 https://firebase.google.com/docs/android/setup 
 
-##References: 
+### References: 
 
 * [Recognize text in images with ML Kit for Firebase](https://codelabs.developers.google.com/codelabs/mlkit-android/#0)
 * [ML Kit - Text Recognition](https://firebase.google.com/docs/ml-kit/recognize-text)
