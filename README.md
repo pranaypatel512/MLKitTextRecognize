@@ -56,7 +56,7 @@ How we can use Firebase ML Kit SDK in Android with Machine learning capability.
 
 <img align="left" height="300" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshots/image_one_ml_kit_result.png">
 <img align="center" height="300" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshots/image_two_ml_kit_result.png">
-<img align="right" height="300" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshots/image_three_ml_kit_result.png">
+<img align="center" height="300" src="https://github.com/pranaypatel512/MLKitTextRecognize/blob/master/screenshots/image_three_ml_kit_result.png">
 
 ### NOTE:
 To successfully sync this project, need to set up this app into your Firebase project. 
